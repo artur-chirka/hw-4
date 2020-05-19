@@ -1,0 +1,42 @@
+body {
+    font-family: Roboto, sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+    box-sizing: border-box;
+    background: no-repeat;
+}
+
+.task{
+    color: red;
+}
+
+.black, .gray, .purple, .orange, .yellow, .pink, .green{
+    display: inline-block;
+    border: none;
+    background: none;
+    padding: 50px;
+    text-decoration: none;
+    outline: none !important;
+}
+
+.black {
+    background: black;
+}
+.gray {
+    background: gray;
+}
+.purple {
+    background: purple;
+}
+.orange {
+    background: orange;
+}
+.yellow {
+    background: yellow;
+}
+.pink {
+    background: pink;
+}
+.green {
+    background: green;
+}
